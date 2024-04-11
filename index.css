@@ -1,0 +1,28 @@
+@import 'path/to/bootstrap/scss/variables';
+
+
+body{
+    background-color: red;
+    min-height: 100vh;
+}
+
+.title{
+    color: #0dcaf0;
+
+    
+   
+}
+
+.main{
+    padding-top: 5%;
+    padding-left: 10%;
+   
+}
+
+.custom-bg-color {
+    background-color:#05262d;
+}
+
+.col {
+    flex: 1;
+}

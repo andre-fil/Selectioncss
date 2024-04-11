@@ -23,6 +23,23 @@ body{
     background-color:#05262d;
 }
 
-.col {
-    flex: 1;
+.card {
+    height: 18em !important;
+   
+ }
+
+.card-text{
+    padding-top: 2em;
+}
+
+.btn{
+    margin-top: 4em !important;
+}
+
+.last{
+    margin-right: 50em !important;
+}
+
+td{
+    height: 5em !important;
 }
